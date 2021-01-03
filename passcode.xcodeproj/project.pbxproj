@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07098F2B25A0D9FE00CC2129 /* unLockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07098F2A25A0D9FE00CC2129 /* unLockViewController.swift */; };
 		07D3C729259F75E80079FF04 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D3C728259F75E80079FF04 /* AppDelegate.swift */; };
 		07D3C72B259F75E80079FF04 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D3C72A259F75E80079FF04 /* SceneDelegate.swift */; };
 		07D3C72D259F75E80079FF04 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D3C72C259F75E80079FF04 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07098F2A25A0D9FE00CC2129 /* unLockViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = unLockViewController.swift; sourceTree = "<group>"; };
 		07D3C725259F75E80079FF04 /* passcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = passcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07D3C728259F75E80079FF04 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		07D3C72A259F75E80079FF04 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				07D3C72A259F75E80079FF04 /* SceneDelegate.swift */,
 				07D3C72C259F75E80079FF04 /* ViewController.swift */,
 				07D3C72E259F75E80079FF04 /* Main.storyboard */,
+				07098F2A25A0D9FE00CC2129 /* unLockViewController.swift */,
 				07D3C731259F75E90079FF04 /* Assets.xcassets */,
 				07D3C733259F75E90079FF04 /* LaunchScreen.storyboard */,
 				07D3C736259F75E90079FF04 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07098F2B25A0D9FE00CC2129 /* unLockViewController.swift in Sources */,
 				07D3C72D259F75E80079FF04 /* ViewController.swift in Sources */,
 				07D3C729259F75E80079FF04 /* AppDelegate.swift in Sources */,
 				07D3C72B259F75E80079FF04 /* SceneDelegate.swift in Sources */,
